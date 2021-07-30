@@ -1,0 +1,28 @@
+a {
+    height: 39.78px;
+}
+
+#logoAndSearch {
+    width: 290px;
+    padding: 7px 0 7px 15px;
+}
+
+
+#inputSearch {
+    padding: 12px 15px 12px 35px;
+    margin-left: 10px;
+    font-size: .9375rem;
+    outline: none;
+    border-radius: 55px;
+    border: none;
+    background-color: #f1f2f6;
+}
+    #divSearch {
+        position: relative;
+    }
+
+    #iconSearch {
+        position: absolute;
+        left: 21px;
+        top: 12px;
+    }

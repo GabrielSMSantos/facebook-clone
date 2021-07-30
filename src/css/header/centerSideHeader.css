@@ -1,0 +1,24 @@
+.divButtonsCenterSideHeader {
+    padding-top: 7px;
+    height: 100%;
+    border-bottom: 3px solid #fff;
+}
+
+.buttonsCenterSideHeader {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    border-radius: 10px;
+    width: 133px;
+    height: 100%;
+    transition: background-color 150ms ease-in-out;
+}
+
+    .buttonsCenterSideHeader:hover {
+        background-color: #f1f2f6;
+    }
+
+    .pageActive {
+        border-bottom: 3px solid #1977F3;
+    }

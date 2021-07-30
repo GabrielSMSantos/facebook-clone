@@ -1,0 +1,30 @@
+#profileLogged {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100px;
+    border-radius: 20px;
+    padding: 5px 10px 5px 5px;
+    cursor: pointer;
+}
+    #profileLogged img {
+        margin-right: 6px;
+    }
+
+    #profileLogged:hover {
+        background-color: #f1f2f6;
+    }
+
+
+.buttonsMoreActions {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    background-color: #e4e6eb;
+}
+
+    .buttonsMoreActions:hover {
+        background-color: #cececec5
+    }
